@@ -24,6 +24,7 @@ h2 {
 .page-footer p {
     font-style: italic;
     line-height: 0.5;
+    color: gray;
 }
 
 .page-footer span {
