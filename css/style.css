@@ -1,0 +1,26 @@
+h1 {
+    margin: 0;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+h2 {
+    margin-bottom: 30px;
+    font-weight: 300;
+    font-size: 16px;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+.page-footer {
+    padding-top: 20px;
+}
+
+.page-footer p {
+    font-style: italic;
+    line-height: 0.5;
+}
+
+.page-footer span {
+    font-style: normal;
+}
